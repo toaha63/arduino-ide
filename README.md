@@ -53,3 +53,6 @@ This open source code was written by the Arduino team and is maintained on a dai
 ## License
 
 The code contained in this repository and the executable distributions are licensed under the terms of the GNU AGPLv3. The executable distributions contain third-party code licensed under other compatible licenses such as GPLv2, MIT and BSD-3. If you have questions about licensing please contact us at [license@arduino.cc](mailto:license@arduino.cc).
+
+## Warning
+This is my (toaha63)s fork version of Arduino IDE to protect Arduino from capitalist Qualcomm
